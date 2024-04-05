@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: #d12635;
+	text-align: center;
+}
+header h1{
+	color: white;
+}
